@@ -387,6 +387,11 @@ pnpm dlx shadcn-ui@latest add dropdown-menu
 ```sh
 pnpm dlx shadcn-ui@latest add table
 ```
+
+## Install select (Shadcn UI)
+```sh
+pnpm dlx shadcn-ui@latest add select
+```
 ---
 
 # React + TypeScript + Vite
