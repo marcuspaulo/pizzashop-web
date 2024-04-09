@@ -12,7 +12,7 @@ export function Header() {
         <Pizza className="h-6 w-6" />
         <Separator orientation="vertical" className="h-6" />
 
-        <nav className="flex cursor-pointer items-center space-x-4 lg:space-x-6">
+        <nav className="flex cursor-pointer cursor-pointer items-center space-x-4 lg:space-x-6">
           <NavLink to="/">
             <Home className="h-4 w-4" />
             Início
