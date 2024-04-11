@@ -399,6 +399,11 @@ pnpm dlx shadcn-ui@latest add select
 npm dlx shadcn-ui@latest add dialog
 ```
 
+## Install Card (Shadcn UI)
+```sh
+pnpm dlx shadcn-ui@latest add card  
+```
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
