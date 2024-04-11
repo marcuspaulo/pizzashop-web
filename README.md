@@ -403,6 +403,8 @@ npm dlx shadcn-ui@latest add dialog
 ```sh
 pnpm dlx shadcn-ui@latest add card  
 ```
+## Install Recharts
+[Recharts](https://recharts.org/en-US/)
 
 # React + TypeScript + Vite
 
