@@ -406,6 +406,47 @@ pnpm dlx shadcn-ui@latest add card
 ## Install Recharts
 [Recharts](https://recharts.org/en-US/)
 
+## Install Axios
+```sh
+pnpm i axios
+```
+
+## Axios Config 1
+```ts
+import axios from 'axios'
+
+export const api = axios.create({
+  baseURL: import.meta.env.VITE_API_URL,
+})
+
+```
+
+## Install React Query
+```sh
+pnpm i @tanstack/react-query
+```
+## Install Skeleton(Loading)
+```sh
+pnpm dlx shadcn-ui@latest add skeleton
+```
+
+## Install Text Area(ShadCN UI)
+```sh
+pnpm dlx shadcn-ui@latest add textarea
+```
+
+## Install Date FNS
+```sh
+ pnpm i date-fns
+```
+
+## Install Calendar and Popover
+```
+pnpm dlx shadcn-ui@latest add calendar popover
+```
+----
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
